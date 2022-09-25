@@ -14,5 +14,5 @@ To hear all of the sounds of each scenario, the user must “complete” events 
 After cloning the repository, the program can be opened in Processing.
 https://processing.org/
 
-With Processig downloaded, the Beads library must also be installed which can be done with the followinng instructions.
+With Processing downloaded, the Beads library must also be installed which can be done with the followinng instructions.
 http://www.beadsproject.net/
